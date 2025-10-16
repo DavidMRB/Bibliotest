@@ -80,7 +80,7 @@ open htmlcov/index.html
 
 El proyecto mantiene una cobertura del **84%** en el código fuente:
 
-![Reporte de Cobertura](cobertura.png)
+![Reporte de Cobertura](Cobertura.png)
 
 | Módulo | Statements | Missing | Cobertura |
 |--------|------------|---------|-----------|
